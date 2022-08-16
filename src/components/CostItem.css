@@ -46,6 +46,7 @@
   }
 
   .cost-item__description h2 {
+    text-align: right;
     font-size: 1.25rem;
   }
 
